@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461359698208",
+    "project_id": "hello-mousaab",
+    "storage_bucket": "hello-mousaab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461359698208:android:285861dbfb705711f1c745",
+        "android_client_info": {
+          "package_name": "com.example.mousaab_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461359698208-di5qtqbkjubsk2qgjksupsd1obqq5dt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACvWZ6TXyPk1xZ6mWWW9QckisW4_EZJT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461359698208-di5qtqbkjubsk2qgjksupsd1obqq5dt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
